@@ -1,3 +1,0 @@
-﻿  sortComparison.cpp
-C:\Users\jokes\source\repos\sortComparison\sortComparison\sortComparison.cpp(67,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  sortComparison.vcxproj -> C:\Users\jokes\source\repos\sortComparison\x64\Debug\sortComparison.exe
